@@ -11,3 +11,10 @@
   <li>commit, push, pull, fetch</li>
   <li>Tags y releases</li>
 </ul>
+
+<p>Version 1.1: Añadidos ejercicios correspondientes a la parete 3 del tutorial</p>
+<ul>
+<li> Ramas (branch, merge,...)</li>
+<li>Conflictos merging ramas</li>
+</ul>
+
